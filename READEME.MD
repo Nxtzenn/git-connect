@@ -18,7 +18,7 @@
     git push -u origin main
     
 ## view
- sel@SKY01:/mnt/d/Dev-Projects/gitconnect$ git remote -v
- origin  https://github.com/skyGwork/git-connect.git (fetch)
- origin  https://github.com/skyGwork/git-connect.git (push)
- sel@SKY01:/mnt/d/Dev-Projects/gitconnect$
+   sel@SKY01:/mnt/d/Dev-Projects/gitconnect$ git remote -v
+   origin  https://github.com/skyGwork/git-connect.git (fetch)
+   origin  https://github.com/skyGwork/git-connect.git (push)
+   sel@SKY01:/mnt/d/Dev-Projects/gitconnect$
