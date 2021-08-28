@@ -1,0 +1,15 @@
+  # working commands gitHub
+
+  _adding files to .gitignore_
+
+      note.md
+      path.js
+
+  _adding folder to .gitignore_
+
+      folderName/*
+
+      or
+
+      folderName/
+      node_module
